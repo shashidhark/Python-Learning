@@ -1,4 +1,4 @@
-#Program to demonstrate exception handling
+#Program to with exception handler
 
 v1_str = input("Enter value for v1 = ");
 v2_str = input("Enter value for v2 = ");
